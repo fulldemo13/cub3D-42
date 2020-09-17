@@ -6,11 +6,11 @@
 #    By: fulldemo <fulldemo@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/01/25 19:02:02 by fulldemo          #+#    #+#              #
-#    Updated: 2020/09/17 13:10:18 by fulldemo         ###   ########.fr        #
+#    Updated: 2020/09/17 13:28:08 by fulldemo         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME	= cub3d
+NAME	= cub3D
 
 SRCDIR	= ./src
 INCDIR	= ./includes
