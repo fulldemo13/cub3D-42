@@ -24,4 +24,4 @@ External functions allowed: open, close, read, write, malloc, free perror, strer
 1. *./cub3D maps/map3.cub*
 
 
-<img align="center" src="cub3d.png" alt="Screenshot of the game" />
+<img align="center" src="cub3D.png" alt="Screenshot of the game" />
